@@ -1,8 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="dart" approved="true" type="Dart" />
       <mapping ext="webp" type="Image" />
       <mapping ext="dart" type="PLAIN_TEXT" />
+      <removed_mapping ext="dart" approved="true" type="Dart" />
     </extensionMap>
   </component>
 </application>
